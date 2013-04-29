@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Unity C# Snippets"
+	]
+}
