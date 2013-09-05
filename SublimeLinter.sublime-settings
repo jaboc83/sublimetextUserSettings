@@ -3,7 +3,7 @@
 	{
 	    "JavaScript": "C:\\Program Files\\nodejs\\nodejs.exe"
 	},
-	"sublimelinter_mark_style": "fill",
+	"sublimelinter_mark_style": "outline",
 	"sublimelinter_gutter_marks": true,
 	"jslint_options": 
 	{
