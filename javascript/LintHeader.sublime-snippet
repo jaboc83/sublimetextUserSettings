@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/*jsLint browser:true */
+/*global  ${1:window} */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lintHeader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
