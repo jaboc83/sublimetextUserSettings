@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Espresso Libre.tmTheme",
+	"font_face": "Courier New",
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
